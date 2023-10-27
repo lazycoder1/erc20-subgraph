@@ -1,0 +1,116 @@
+{
+  "goerli": {
+    "ERC20": {
+      "address": "0x0576a174D229E3cFA37253523E645A78A0C91B57",
+      "startBlock": 8484567
+    }
+  },
+  "mumbai": {
+    "ERC20": {
+      "address": "0x0576a174D229E3cFA37253523E645A78A0C91B57",
+      "startBlock": 32007731 
+    }
+  },
+  "base": {
+    "ERC20": {
+      "address": "0x0576a174D229E3cFA37253523E645A78A0C91B57",
+      "startBlock": 1854367 
+    }
+  },
+  "mainnet": {
+    "ERC20": {
+      "address": "0x0576a174D229E3cFA37253523E645A78A0C91B57",
+      "startBlock": 16693601
+    }
+  },
+  "arbitrum-one": {
+    "ERC20": {
+      "address": "0x0576a174D229E3cFA37253523E645A78A0C91B57",
+      "startBlock": 64030890
+    }
+  },
+  "arbitrum-goerli": {
+    "ERC20": {
+      "address": "0x0576a174D229E3cFA37253523E645A78A0C91B57",
+      "startBlock": 9682849
+    }
+  },
+  "avalanche": {
+    "ERC20": {
+      "address": "0x0576a174D229E3cFA37253523E645A78A0C91B57",
+      "startBlock": 27453252
+    }
+  },
+  "fuji": {
+    "ERC20": {
+      "address": "0x0576a174D229E3cFA37253523E645A78A0C91B57",
+      "startBlock": 19492603
+    }
+  }, 
+  "optimism-goerli": {
+    "ERC20": {
+      "address": "0x0576a174D229E3cFA37253523E645A78A0C91B57",
+      "startBlock": 5438184
+    }
+  },
+  "sepolia": {
+    "ERC20": {
+      "address": "0x0576a174D229E3cFA37253523E645A78A0C91B57",
+      "startBlock": 2913425
+    }
+  },
+  "optimism": {
+    "ERC20": {
+      "address": "0x0576a174D229E3cFA37253523E645A78A0C91B57",
+      "startBlock": 74171572
+    }
+  },
+  "matic": {
+    "ERC20": {
+      "address": "0x0576a174D229E3cFA37253523E645A78A0C91B57",
+      "startBlock": 39634695
+    }
+  },
+  "bsc": {
+    "ERC20": {
+      "address": "0x0576a174D229E3cFA37253523E645A78A0C91B57",
+      "startBlock": 27202729
+    }
+  },
+  "base-testnet": {
+    "ERC20": {
+      "address": "0x0576a174D229E3cFA37253523E645A78A0C91B57",
+      "startBlock": 1943054
+    }
+  },
+  "gnosis":{
+    "ERC20": {
+      "address": "0x0576a174D229E3cFA37253523E645A78A0C91B57",
+      "startBlock": 26630248
+    }
+  },
+  "fantom":{
+    "ERC20": {
+      "address": "0x0576a174D229E3cFA37253523E645A78A0C91B57",
+      "startBlock": 57179803
+    }
+  },
+  "fantom-testnet": {
+    "ERC20": {
+      "address": "0x0576a174D229E3cFA37253523E645A78A0C91B57",
+      "startBlock": 14356219 
+    }
+  },
+  "fuse": {
+    "ERC20": {
+      "address": "0x0576a174D229E3cFA37253523E645A78A0C91B57",
+      "startBlock": 23791548 
+    }
+  },
+  "celo-alfajores": {
+    "ERC20": {
+      "address": "0x0576a174D229E3cFA37253523E645A78A0C91B57",
+      "startBlock": 17649236
+    }
+  }
+}

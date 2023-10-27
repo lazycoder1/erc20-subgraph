@@ -1,0 +1,17 @@
+{
+    "name": "erc20-subgraph",
+    "version": "0.0.1",
+    "description": "Subgraph for indexing all ERC20 token balances and approvals. Inspired from subgraph created by George Roman",
+    "scripts": {
+        "codegen": "graph codegen",
+        "build": "graph build",
+        "build-matic": "graph build --network matic",
+        "deploy": "graph deploy lazycoder1/erc20-test --ipfs https://api.thegraph.com/ipfs/ --node https://api.thegraph.com/deploy/"
+    },
+    "author": "Gautam Sabhahit",
+    "license": "MIT",
+    "devDependencies": {
+        "@graphprotocol/graph-cli": "0.54.0",
+        "@graphprotocol/graph-ts": "0.29.1"
+    }
+}
